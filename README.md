@@ -1,5 +1,3 @@
-# biweekly-report-1-bema8444
-biweekly-report-1-bema8444 created by GitHub Classroom
 
 # Benjamin, Marquardt
 
